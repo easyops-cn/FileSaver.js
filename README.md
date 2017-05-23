@@ -1,5 +1,6 @@
 FileSaver.js
 ============
+[![npm (scoped)](https://img.shields.io/npm/v/@easyops/file-saver.svg)](https://www.npmjs.com/package/@easyops/file-saver)
 
 FileSaver.js implements the HTML5 W3C `saveAs()` FileSaver interface in browsers that do
 not natively support it. There is a [FileSaver.js demo][1] that demonstrates saving
